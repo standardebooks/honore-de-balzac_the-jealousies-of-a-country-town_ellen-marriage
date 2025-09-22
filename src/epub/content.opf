@@ -39,6 +39,7 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Provincial Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">Two stories of the petty rivalries and resentments in a French provincial town.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;“The Old Maid” tells the story of three men who are all after the hand of the same wealthy spinster in their town of Alençon. The Chevalier de Valois is a member of the ancien régime with a penchant for snuff from the snuffbox he’s kept for sentimental reasons. Du Bosquier is a former financier who fell on hard times after he was discharged by Napoleon and whom Mlle. Cormon has already rejected once. Both of these men are in their late fifties, and their interests in the forty-something Mlle. Cormon are financial rather than romantic. The third suitor is Athanese Granson, a young man of twenty-three who has fallen head over heels in love with Mlle. Cormon, who is a friend of his mother’s. While each of them are devising ways they can win her hand, her focus is somewhere else entirely, on M. de Troisville, who is looking to settle down in Alençon.&lt;/p&gt;

@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="the-old-maid.xhtml">
 		<ignore code="t-031">
+			<line>452</line>
 			<reason>The text is A B C D, not A B C.</reason>
 		</ignore>
 	</file>
